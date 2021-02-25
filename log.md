@@ -1,30 +1,40 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: February 25, 2021 (Thursday)
+##### (Let's get started!)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
+1. Started off the day with checking the rules and FAQ of 100DaysOfCode , registered on twitter and posted the first message.
+2. Setting up Git and especally Git in VScode was a challenge but got it too work after an hour of troubleshooting.
+3. Started a new Github repo , a portfolio for myself.
+... This portfolio will be my first project in the challenge , where I will challenge myself to put my knowledge to the test.
+... I plan to use the portfolio to put myself in the market.
+4. Made the boilerplate index.html / style.css and app.js , commited and pushed them to Github
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 
+The smallest things can hold you back from getting to actually code, today setting up git again after a period not using it was hard again.
+Realized quite quickly that coding every day is so important when it comes to letting things stick. 
+Setting up the remote git in vscode was something i did before but somehow the steps i could not remember. Blessings to Github for the good 
+documentation.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Portfolio website] (https://github.com/josvelema/portfolio-website)
+---
+<!-- 
+### Day 1: February 25, 2021 (Thursday)
+##### (Let's get started!)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: 
+1. Started off the day with checking the rules and FAQ of 100DaysOfCode , registered on twitter and posted the first message.
+2. Setting up Git and especally Git in VScode was a challenge but got it too work after an hour of troubleshooting.
+3. Started a new Github repo , a portfolio for myself.
+... This portfolio will be my first project in the challenge , where I will challenge myself to put my knowledge to the test.
+... I plan to use the portfolio to put myself in the market.
+4. Made the boilerplate index.html / style.css and app.js , commited and pushed them to Github
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** 
+The smallest things can hold you back from getting to actually code, today setting up git again after a period not using it was quite hard.
+Realized quickly that coding every day is so important when it comes to letting things stick. Practice does make perfect.
+Setting up the remote git in vscode was something i did before but somehow the steps i could not remember. Blessings to Github for the good 
+documentation.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Portfolio website] (https://github.com/josvelema/portfolio-website) -->
