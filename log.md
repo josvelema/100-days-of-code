@@ -35,3 +35,24 @@ project to have more to show on the portfolio. I think 3 days would be enough of
 content / features.
 
 **Link to work:** [Portfolio website] (https://github.com/josvelema/portfolio-website)
+
+--- 
+
+### Day 3: February 27, 2021 (Saturday)
+##### (I think I Git it)
+
+**Today's Progress**: 
+1. Made a title introduction box with subtle shadow effects.
+2. Added a CSS grid with cards for a quick call to action.
+3. Worked on the responsiveness by adding flexible font-sizes with calc()
+4. Add the 'glass blur' in the navbar.
+
+
+**Thoughts:** 
+I really like nitpicking when it comes to styling with css , it's also a great get away from complexer code . Also getting used to using CSS grid ,
+which really is a effective way of getting elements lined up just perfect!  Today was a relaxed day , didn't watch the time because i had plenty and even
+went to go hike in the afternoon which was very nice. Also got a message from someone who maybe would like to pair-program with me! It came from some one who saw my post of 100daysofcode so i was amazed that it is really helping if you just put your self out there!
+
+
+
+**Link to work:** [Portfolio website] (https://github.com/josvelema/portfolio-website)
