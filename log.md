@@ -39,7 +39,7 @@ content / features.
 --- 
 
 ### Day 3: February 27, 2021 (Saturday)
-##### (I think I Git it)
+##### (ahw yes CSS)
 
 **Today's Progress**: 
 1. Made a title introduction box with subtle shadow effects.
@@ -56,3 +56,26 @@ went to go hike in the afternoon which was very nice. Also got a message from so
 
 
 **Link to work:** [Portfolio website] (https://github.com/josvelema/portfolio-website)
+
+---
+
+### Day 4: February 28, 2021 (Sunday)
+##### (respond much?)
+
+**Today's Progress**: 
+1. Made an Eye button for a CTA box 
+2. Added more semantics and an media query that stop animation when user setting are set accordingly
+3. Made a basic landing page for other project 
+4. experimenting with backdrop filters and found a .png logo perfect for the product.
+
+
+**Thoughts:** 
+Working with flexbox can give unwanted result , maybe a good refactor will solve things but i might switch to using grid more. The nitpicking from the
+day before was fun but i have to create more content and/or stick with mimimal things. Also restarted a project for a friend , which hopefully will
+give me more experience in making something other then myself.
+
+
+**Link to work:**
+ [Portfolio website] (https://github.com/josvelema/portfolio-website)
+ [website for a modular flightcase] (https://github.com/josvelema/modular-cookiecase)
+
