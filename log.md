@@ -79,3 +79,20 @@ give me more experience in making something other then myself.
  [Portfolio website] (https://github.com/josvelema/portfolio-website)
  [website for a modular flightcase] (https://github.com/josvelema/modular-cookiecase)
 
+### Day 4: March 1, 2021 (Monday)
+##### (node to self)
+
+**Today's Progress**: 
+1. experimented with some colorschemes for the portfolio but couldn't decide what to choose
+2. started a message app to put NodeJs into practice
+
+**Thoughts:** 
+Today I was kinda fed up with CSS and designing for the moment so thought of a way to get better in JS . As I am following a course into
+nodeJS i decided to make a message app . Nodejs is great , the more I get to know it the more I want to do make stuff with it!
+
+
+**Link to work:**
+ [Portfolio website] (https://github.com/josvelema/portfolio-website)
+ 
+
+
