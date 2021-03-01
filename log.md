@@ -79,7 +79,7 @@ give me more experience in making something other then myself.
  [Portfolio website] (https://github.com/josvelema/portfolio-website)
  [website for a modular flightcase] (https://github.com/josvelema/modular-cookiecase)
 
-### Day 4: March 1, 2021 (Monday)
+### Day 5: March 1, 2021 (Monday)
 ##### (node to self)
 
 **Today's Progress**: 
